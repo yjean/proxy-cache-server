@@ -1,0 +1,19 @@
+{
+  "name": "proxy-cache-server",
+  "version": "1.0.0",
+  "description": "Proxy resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yjean/proxy-cache-server.git"
+  },
+  "author": "Yoann Jean <yoann.jean@gmail.com> (http://yoann.jean.free.fr)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yjean/proxy-cache-server/issues"
+  },
+  "homepage": "https://github.com/yjean/proxy-cache-server#readme"
+}
